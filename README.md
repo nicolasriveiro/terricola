@@ -1,2 +1,2 @@
-# terricola
-El futuro del crecimiento (?
+# Terricola
+El futuro del crecimiento automatizado para fumetas (?
